@@ -8,4 +8,4 @@ class Dog:
         print("Woof!")
 
     def sit(self):
-        print("the dog is sitting.")
+        print("The dog is sitting.")
