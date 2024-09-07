@@ -5,7 +5,7 @@ class Dog:
 
     #Instance method definition
     def bark(self):
-        
+        print("Woof!")
 
     def sit(self):
         print("the dog is sitting.")
