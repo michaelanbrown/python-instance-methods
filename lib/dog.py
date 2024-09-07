@@ -4,4 +4,4 @@ class Dog:
     # Class body goes here
 
     #Instance method definition
-    pass
+    def sit(self):
