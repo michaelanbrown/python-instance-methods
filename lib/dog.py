@@ -5,3 +5,4 @@ class Dog:
 
     #Instance method definition
     def sit(self):
+        print("the dog is sitting.")
